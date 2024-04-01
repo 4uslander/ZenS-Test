@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joke", "Joke\Joke.csproj", "{CF2A6D8C-E007-43F9-B4EC-5AAC1EC80429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMaxSumAlgorithm", "MiniMaxSumAlgorithm\MiniMaxSumAlgorithm.csproj", "{82502348-3844-4E57-A4D2-3105E6316645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF2A6D8C-E007-43F9-B4EC-5AAC1EC80429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2A6D8C-E007-43F9-B4EC-5AAC1EC80429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2A6D8C-E007-43F9-B4EC-5AAC1EC80429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2A6D8C-E007-43F9-B4EC-5AAC1EC80429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82502348-3844-4E57-A4D2-3105E6316645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82502348-3844-4E57-A4D2-3105E6316645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82502348-3844-4E57-A4D2-3105E6316645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82502348-3844-4E57-A4D2-3105E6316645}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BF7BF27-F9A4-49C6-91A3-5C9275ED651F}
+	EndGlobalSection
+EndGlobal
